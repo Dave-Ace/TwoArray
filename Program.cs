@@ -49,3 +49,5 @@ for(int i = 0; i < nums.Count; i++)
         index++;
         i = 0;
 }
+
+Console.WriteLine("Hello");
